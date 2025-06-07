@@ -1,2 +1,3 @@
-# MEIL-NeRF
-Official Repository for MEIL-NeRF paper
+# MEIL-NeRF: Memory-Efficient Incremental Learning of Neural Radiance Fields
+
+The code will be updated soon.
